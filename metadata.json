@@ -1,0 +1,8 @@
+{
+  "name": "Cadence Armor",
+  "description": "Customizable protective gear, designer series accessories, lifestyle engagement, warranty management, and personalized retention analytics for active everyday living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
